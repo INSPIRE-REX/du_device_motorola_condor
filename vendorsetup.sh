@@ -1,1 +1,1 @@
-add_lunch_combo krexus_condor-user
+add_lunch_combo du_condor-userdebug
